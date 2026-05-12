@@ -5,6 +5,10 @@ This repository contains Python-based quantitative research projects focused on 
 The work emphasizes financial intuition combined with statistical analysis, time-series modeling, and portfolio analytics to better understand how investment strategies behave across different market conditions.
 
 ---
+## Featured Projects
+
+- [Systematic Factor Strategy Backtest](https://github.com/brijesh-shreedhar/systematic-factor-strategy-backtest)
+- [Rolling Factor Exposure & Risk Attribution](https://github.com/brijesh-shreedhar/rolling-factor-exposure-risk-attribution)
 
 ## Research Focus
 
